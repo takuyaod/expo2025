@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         auto-register
+// @name         pick-up-cancel-slot
 // @namespace    http://tampermonkey.net/
 // @version      2025-08-16
-// @description  パビリオン自動申し込み
+// @description  キャンセル拾い
 // @author       to
 // @match        https://ticket.expo2025.or.jp/event_time/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=expo2025.or.jp
