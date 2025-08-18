@@ -1,0 +1,21 @@
+.style_loader__eoj1P, /*検索画面のグルグル*/
+/* 時間帯選択画面 */
+ol.style_steps__KA_XB, /* パンくずリスト */
+h1.style_title__44y_b, /* 余計な説明: 時間帯を選択する */
+.style_main_img__W_6pm, /* 画像 */
+.style_sub_title__bDw9W, /* パビリオンのサブタイトル */
+.style_description__o9igj,  /* 余計な説明: 詳細 */
+.style_event_chip_links___Pve2, /* バーチャル万博へのリンク */
+.style_form_result_caption__iXsYT,  /* 余計な説明: 時間帯 */ 
+.style_form_select_time__TZmGY, /* 余計な説明:  時間帯の説明*/
+.style_hour_unit_wrap__piAg4, /* 絞り込み */
+.style_scale__Wf3te, /* 空き状況アイコン説明 */
+.style_lottery_description__EzYU4,  /* 余計な説明: 申し込みボタン上 */
+.style_reservation__kIfvE, /* 余計な説明: 申し込みボタン上 */
+/* パビリオン・イベント選択する画面 */
+.style_title__jFGv9, /* 余計な説明: タイトル*/
+.style_form_search_caption__DbKqM, /* 余計な説明:  */
+.style_event_links__jS3Q_  /* 詳しくはこちら・ バーチャル万博*/
+{
+  display: none !important;
+}
